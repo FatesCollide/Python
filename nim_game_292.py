@@ -3,4 +3,3 @@ class Solution:
 
 
         return n % 4
-#HIIII
